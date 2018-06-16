@@ -1,6 +1,6 @@
 <?php
 
 echo "Meu primeiro script PHP. <strong>Hello World!</strong>";
-echo "Sli";
+echo "Editado pela web";
 
 ?>
