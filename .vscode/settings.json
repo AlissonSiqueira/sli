@@ -1,0 +1,4 @@
+{
+    // Points to the php executable.
+"php.validate.executablePath":"X:/XAMPP/php/php.exe",
+}
